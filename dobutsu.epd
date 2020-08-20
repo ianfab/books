@@ -1,670 +1,670 @@
-+C1e/1cl/1E1/1LG[G] b - - 2 4
-+Cce/1l1/2G/EL1[G] b - - 0 4
-+Cce/1l1/2G/EL1[G] b - - 2 4
-+Cle/1g1/2G/EL1[C] b - - 0 4
-+Cle/1g1/2G/ELc[] b - - 3 4
-+Cle/1g1/2L/E1G[C] b - - 0 4
-+Cle/1g1/2L/EcG[] b - - 3 4
-+Cle/1g1/c1G/EL1[] b - - 3 4
-+Cle/3/1L1/E1+c[Gg] b - - 0 4
-+Cle/3/1L1/E1c[Gg] b - - 0 4
-+Cle/3/1Lc/E2[Gg] b - - 0 4
-+Cle/3/LE1/2+c[Gg] b - - 0 4
-+Cle/3/LE1/2c[Gg] b - - 0 4
-1+C1/glc/3/ELG[E] b - - 2 4
-1+CC/gel/1E1/1LG[] b - - 6 4
-1+CG/1el/3/ELG[c] b - - 2 4
-1+CG/1el/C2/ELG[] b - - 2 4
-1+Ce/1cl/2G/EL1[G] b - - 2 4
-1+Ce/1cl/2G/ELG[] b - - 2 4
-1+Ce/1gl/2G/EL1[c] b - - 1 4
-1+Ce/1gl/2G/EL1[c] b - - 3 4
-1+Ce/1gl/C1G/EL1[] b - - 6 4
-1+Ce/c1l/2G/ELG[] b - - 2 4
-1+Ce/g1l/1E1/1LG[C] b - - 0 4
-1+Ce/g1l/1Ec/1LG[] b - - 3 4
-1+Ce/g1l/2G/EL1[C] b - - 0 4
-1+Ce/g1l/c1G/EL1[] b - - 3 4
-1+Ce/g1l/cE1/1LG[] b - - 3 4
-1+Ce/l1c/G2/ELG[] b - - 2 4
-1+Ce/l2/G1c/ELG[] b - - 2 4
-1+Ce/lGc/3/ELG[] b - - 2 4
-1+Ce/lc1/G2/ELG[] b - - 2 4
-1Ce/1Cl/g1G/EL1[] b - - 6 4
-1Ce/1gl/2G/EL1[c] b - - 1 4
-1Ce/1gl/2G/EL1[c] b - - 3 4
-1Ce/1gl/C1G/EL1[] b - - 6 4
-1Ee/2l/L2/2G[GCc] b - - 2 4
-1g+C/le1/2G/EL1[c] b - - 3 4
-1g1/1el/1E1/1LG[cc] b - - 1 4
-1g1/1el/CE1/1LG[c] b - - 1 4
-1g1/1el/CE1/1LG[c] b - - 3 4
-1g1/Cel/1E1/1LG[c] b - - 1 4
-1g1/le1/1E1/1LG[cc] b - - 1 4
-1g1/le1/1EC/1LG[c] b - - 1 4
-1g1/le1/1EC/1LG[c] b - - 3 4
-1g1/leC/1E1/1LG[c] b - - 1 4
-1g1/leC/1E1/1LG[c] b - - 3 4
-1g1/leC/1E1/1LG[c] b - - 5 4
-1g1/leC/1EG/1L1[c] b - - 1 4
-1g1/leC/1EG/1L1[c] b - - 3 4
-1g1/leC/1EG/1L1[c] b - - 5 4
-1gC/1el/1E1/1LG[c] b - - 1 4
-1gC/le1/1E1/1LG[c] b - - 1 4
-1gC/le1/1E1/1LG[c] b - - 5 4
-1gC/le1/1EG/1L1[c] b - - 3 4
-1ge/+Clc/3/ELG[] b - - 5 4
-1ge/1Cl/1E1/1LG[c] b - - 5 4
-1ge/1Cl/2G/EL1[c] b - - 4 4
-1ge/1Cl/2G/EL1[c] b - - 5 4
-1ge/1Cl/c1G/EL1[] b - - 3 4
-1ge/1Cl/cE1/1LG[] b - - 3 4
-1ge/1l1/1E1/L1G[cc] b - - 1 4
-1ge/1lG/1E1/1L1[cc] b - - 1 4
-1ge/1lG/1E1/1LC[c] b - - 4 4
-1ge/1lG/1E1/CL1[c] b - - 4 4
-1ge/1lc/1G1/EL1[c] b - - 3 4
-1ge/1lc/CG1/EL1[] b - - 5 4
-1ge/2l/1E1/1LG[cc] b - - 1 4
-1ge/2l/2C/ELG[c] b - - 5 4
-1ge/2l/2G/1L1[Cce] b - - 1 4
-1ge/2l/2G/EL1[Cc] b - - 5 4
-1ge/2l/2G/EL1[cc] b - - 1 4
-1ge/2l/2G/ELC[c] b - - 4 4
-1ge/2l/C1G/EL1[c] b - - 4 4
-1ge/2l/CE1/1LG[C] b - - 0 4
-1ge/Cl1/1CG/EL1[] b - - 2 4
-1ge/Clc/1G1/EL1[] b - - 5 4
-1ge/E1l/2C/1LG[c] b - - 5 4
-1ge/E1l/2G/1L1[Cc] b - - 5 4
-1ge/cCl/1E1/1LG[] b - - 3 4
-1ge/cCl/2G/EL1[] b - - 3 4
-1ge/gCl/1E1/1L1[C] b - - 2 4
-1ge/l2/CG1/E1L[c] b - - 2 4
-1ge/l2/CG1/E1L[c] b - - 4 4
-1ge/l2/CG1/EL1[c] b - - 5 4
-1ge/l2/CGL/E2[c] b - - 2 4
-1ge/l2/CGL/E2[c] b - - 4 4
-1gl/1e1/1GC/EL1[c] b - - 5 4
-1gl/1eC/3/ELG[c] b - - 5 4
-1gl/Ee1/3/CLG[c] b - - 5 4
-1gl/EeC/3/1LG[c] b - - 5 4
-1l1/g2/e1G/E1L[Cc] b - - 3 4
-1l1/g2/e1G/E1L[Cc] b - - 5 4
-1l1/g2/eEL/2G[Cc] b - - 5 4
-1l1/g2/eLG/E2[Cc] b - - 5 4
-1l1/ge1/1EC/L1G[c] b - - 4 4
-1l1/ge1/1G1/ELc[c] b - - 1 4
-1l1/ge1/1G1/ELc[c] b - - 3 4
-1l1/ge1/1LC/EcG[] b - - 3 4
-1lC/ge1/3/ELG[C] b - - 0 4
-1lC/ge1/3/ELG[C] b - - 2 4
-1lC/geC/3/ELG[] b - - 2 4
-1le/1g1/1G1/EL1[Cc] b - - 2 4
-1le/2E/g1L/1G1[Cc] b - - 2 4
-1le/3/1G1/ELG[cc] b - - 1 4
-1le/Cg1/1E1/1LG[c] b - - 2 4
-1le/g1C/cL1/E1G[] b - - 2 4
-1le/g1E/2L/1cG[c] b - - 1 4
-1le/g1E/2L/2G[Cc] b - - 3 4
-1le/g1E/2L/2G[Cc] b - - 5 4
-1le/g1E/c1L/1CG[] b - - 4 4
-1le/g1E/c1L/C1G[] b - - 4 4
-1le/g1c/1G1/EL1[C] b - - 2 4
-1le/g2/1EC/1LG[c] b - - 1 4
-1le/g2/1EC/1LG[c] b - - 3 4
-1le/g2/1G1/E1L[Cc] b - - 3 4
-1le/g2/1G1/E1L[Cc] b - - 5 4
-1le/g2/1GC/EL1[c] b - - 5 4
-1le/gC1/c1G/E1L[] b - - 4 4
-1le/gcE/2G/1L1[c] b - - 1 4
-1le/gcE/2G/1LC[] b - - 4 4
-1le/gcE/2G/2L[C] b - - 2 4
-1le/gcE/2G/2L[C] b - - 4 4
-1le/gcE/2G/L2[C] b - - 4 4
-1le/gcE/2L/1CG[] b - - 4 4
-1le/gcE/2L/2G[c] b - - 1 4
-1le/gcE/3/1LG[C] b - - 2 4
-2+C/1gl/C2/ELG[E] b - - 0 4
-2+C/gcl/3/ELG[E] b - - 0 4
-2+C/gel/3/ELG[c] b - - 1 4
-2+C/gel/3/ELG[c] b - - 3 4
-2e/1gl/1GC/EL1[c] b - - 3 4
-2e/1gl/2C/ELG[c] b - - 1 4
-2e/1gl/2C/ELG[c] b - - 3 4
-2e/1gl/2G/EL1[Cc] b - - 1 4
-2e/1gl/2G/EL1[Cc] b - - 3 4
-2e/1gl/2G/EL1[cc] b - - 1 4
-2e/1gl/C1G/EL1[c] b - - 3 4
-2e/1gl/L1C/E1G[c] b - - 3 4
-2e/Cgl/2G/EL1[c] b - - 1 4
-2e/Cgl/2G/EL1[c] b - - 3 4
-2e/EGl/L2/2G[Cc] b - - 2 4
-2e/g1l/1E1/1LG[cc] b - - 1 4
-2e/g1l/1GC/E1L[c] b - - 2 4
-2e/g1l/1GC/E1L[c] b - - 4 4
-2e/gCl/1E1/1LG[c] b - - 5 4
-2e/gCl/2G/EL1[c] b - - 4 4
-2e/gCl/2G/EL1[c] b - - 5 4
-2e/glE/1CG/1L1[c] b - - 4 4
-2e/glc/1G1/ELC[] b - - 3 4
-2e/glc/1G1/ELC[] b - - 5 4
-2e/lg1/1EG/1LC[c] b - - 1 4
-2l/EeG/3/1LG[Cc] b - - 2 4
-2l/ge1/1CG/E1L[c] b - - 5 4
-2l/geC/1E1/1LG[c] b - - 5 4
-2l/geC/1E1/L1G[c] b - - 5 4
-2l/geC/1LG/E2[c] b - - 3 4
-2l/geC/1LG/E2[c] b - - 5 4
-2l/geC/2G/E1L[c] b - - 3 4
-2l/geC/2G/E1L[c] b - - 5 4
-2l/geC/3/ELG[c] b - - 3 4
-2l/geC/3/ELG[c] b - - 5 4
-3/gel/1G1/ELC[c] b - - 3 4
-3/gel/1G1/ELC[c] b - - 5 4
-C+C1/gel/1E1/1LG[] b - - 6 4
-C+Ce/2l/g1G/EL1[] b - - 6 4
-C1e/1cl/2G/ELG[] b - - 2 4
-C1e/1gl/2G/EL1[c] b - - 1 4
-C1e/1gl/2G/EL1[c] b - - 3 4
-CCe/1gl/2G/EL1[] b - - 6 4
-CcG/1el/3/ELG[] b - - 2 4
-Ccl/1eG/3/ELG[] b - - 2 4
-Cg1/1el/1E1/1LG[c] b - - 1 4
-Cg1/1el/1E1/1LG[c] b - - 3 4
-Cg1/le1/1E1/1LG[c] b - - 3 4
-Cge/2l/1E1/1LG[c] b - - 5 4
-Cge/2l/2G/EL1[c] b - - 5 4
-Cge/2l/c1G/EL1[] b - - 3 4
-Cge/2l/cE1/1LG[] b - - 3 4
-Cge/c1l/1E1/1LG[] b - - 3 4
-Cge/c1l/2G/EL1[] b - - 3 4
-Cge/l2/1EG/1L1[c] b - - 5 4
-Cl1/geE/2G/1L1[c] b - - 4 4
-Cle/g1E/2L/1cG[] b - - 4 4
-Cle/g1E/2L/2G[C] b - - 0 4
-Cle/g1E/2L/c1G[] b - - 4 4
-Cle/g1E/c1L/2G[] b - - 4 4
-Cle/gcE/2G/1L1[] b - - 4 4
-Cle/gcE/2L/2G[] b - - 4 4
-E1C/gl1/c2/ELG[] b - - 2 4
-G+C1/le1/3/ELG[c] b - - 2 4
-GC1/le1/2C/ELG[] b - - 2 4
-GCe/1l1/2C/ELG[] b - - 2 4
-Gle/3/2L/E1G[Cc] b - - 1 4
-c+Ce/2l/1E1/1LG[G] b - - 2 4
-c+Ce/g1l/2G/EL1[] b - - 3 4
-c+Ce/l2/1E1/1LG[G] b - - 2 4
-c+Ce/l2/G2/ELG[] b - - 2 4
-c1e/El1/2C/1LG[G] b - - 0 4
-c1e/gl1/2C/ELG[] b - - 3 4
-c1e/gl1/2C/ELG[] b - - 5 4
-c1e/glE/2G/1L1[C] b - - 3 4
-cCe/g1l/1E1/1LG[] b - - 3 4
-cCe/g1l/2G/EL1[] b - - 3 4
-cge/1Cl/1E1/1LG[] b - - 3 4
-cge/1Cl/2G/EL1[] b - - 3 4
-cge/1l1/1E1/LCG[] b - - 5 4
-cge/1l1/1EC/L1G[] b - - 5 4
-cge/Cl1/1E1/1LG[] b - - 5 4
-cge/Cl1/1E1/L1G[] b - - 5 4
-cge/Cl1/1EG/1L1[] b - - 5 4
-cge/El1/2G/1L1[C] b - - 5 4
-cge/lC1/1E1/1LG[] b - - 3 4
-cge/lC1/1G1/EL1[] b - - 3 4
-cl+C/g2/1G1/EL1[E] b - - 0 4
-cl+C/g2/1L1/E1G[E] b - - 0 4
-cl1/geE/2C/1LG[] b - - 5 4
-cl1/geE/2G/1L1[C] b - - 3 4
-cl1/geE/2G/1L1[C] b - - 5 4
-clG/g2/1L1/E2[CE] b - - 0 4
-cle/E2/C1L/2G[G] b - - 0 4
-cle/g1E/2G/1LC[] b - - 4 4
-g+Ce/2l/1CG/EL1[] b - - 6 4
-g+Ce/2l/1E1/1LG[c] b - - 1 4
-g+Ce/2l/1E1/1LG[c] b - - 3 4
-g+Ce/2l/CE1/1LG[] b - - 6 4
-g+Ce/l2/1E1/1LG[c] b - - 1 4
-g+Ce/l2/1EC/1LG[] b - - 6 4
-g1+C/lc1/1E1/1LG[E] b - - 2 4
-g1+C/le1/C2/ELG[] b - - 2 4
-g1C/1el/1Ec/1LG[] b - - 5 4
-g1C/1el/1G1/ELc[] b - - 5 4
-g1C/1el/cE1/1LG[] b - - 5 4
-g1C/l2/eEL/2G[c] b - - 5 4
-g1C/lG1/3/EL1[Ec] b - - 0 4
-g1C/le1/1E1/1LG[C] b - - 0 4
-g1C/le1/1E1/1LG[C] b - - 2 4
-g1C/le1/1EG/1L1[C] b - - 0 4
-g1C/le1/1EG/1L1[C] b - - 2 4
-g1C/le1/1EG/1Lc[] b - - 3 4
-g1C/le1/1EG/1Lc[] b - - 5 4
-g1C/le1/cE1/1LG[] b - - 5 4
-g1C/leC/2G/EL1[] b - - 2 4
-g1C/lec/1E1/1LG[] b - - 3 4
-g1C/lec/1E1/1LG[] b - - 5 4
-g1c/1Cl/1E1/1LG[E] b - - 2 4
-g1c/1Cl/1E1/ELG[] b - - 2 4
-g1c/1Cl/2G/EL1[E] b - - 2 4
-g1c/Cel/1E1/1LG[] b - - 3 4
-g1c/Cel/1E1/1LG[] b - - 5 4
-g1c/lC1/1E1/ELG[] b - - 2 4
-g1c/le1/1EG/1LC[] b - - 3 4
-g1c/le1/1EG/1LC[] b - - 5 4
-g1c/leC/1E1/1LG[] b - - 3 4
-g1c/leC/1E1/1LG[] b - - 5 4
-g1e/1Cl/1E1/1LG[c] b - - 1 4
-g1e/1Cl/1E1/1LG[c] b - - 3 4
-g1e/1Cl/1E1/1LG[c] b - - 5 4
-g1e/1Cl/2C/ELG[] b - - 2 4
-g1e/1Cl/2C/ELG[] b - - 4 4
-g1e/1Cl/2C/ELG[] b - - 6 4
-g1e/1Cl/2G/EL1[c] b - - 1 4
-g1e/1Cl/2G/EL1[c] b - - 3 4
-g1e/1Cl/2G/EL1[c] b - - 5 4
-g1e/1Cl/2G/ELc[] b - - 4 4
-g1e/1Cl/c1G/EL1[] b - - 4 4
-g1e/1Cl/c1G/EL1[] b - - 5 4
-g1e/1Cl/cE1/1LG[] b - - 5 4
-g1e/1cl/1GC/E1L[] b - - 2 4
-g1e/1cl/1GC/E1L[] b - - 4 4
-g1e/1cl/1GC/EL1[] b - - 4 4
-g1e/1cl/2G/E1L[C] b - - 2 4
-g1e/1cl/2G/E1L[C] b - - 4 4
-g1e/1cl/2G/ELC[] b - - 4 4
-g1e/1cl/G1C/EL1[] b - - 4 4
-g1e/1cl/LGC/E2[] b - - 2 4
-g1e/1cl/LGC/E2[] b - - 4 4
-g1e/1l1/1CG/EL1[c] b - - 2 4
-g1e/1l1/1CG/EL1[c] b - - 3 4
-g1e/1l1/1CG/EL1[c] b - - 4 4
-g1e/1l1/2C/ELG[c] b - - 1 4
-g1e/1l1/2C/ELG[c] b - - 3 4
-g1e/1l1/2C/ELG[c] b - - 5 4
-g1e/1l1/CG1/EL1[c] b - - 3 4
-g1e/1l1/CG1/EL1[c] b - - 5 4
-g1e/1l1/GC1/EL1[c] b - - 4 4
-g1e/1lE/cCG/1L1[] b - - 4 4
-g1e/1lG/1E1/1L1[Cc] b - - 0 4
-g1e/1lG/1E1/1L1[Cc] b - - 3 4
-g1e/1lG/1E1/1L1[Cc] b - - 5 4
-g1e/1lG/1E1/1Lc[c] b - - 1 4
-g1e/1lG/1E1/cL1[c] b - - 1 4
-g1e/1lG/cE1/1L1[c] b - - 1 4
-g1e/1lc/CG1/EL1[] b - - 3 4
-g1e/1lc/GC1/EL1[] b - - 4 4
-g1e/2l/1CG/EL1[c] b - - 3 4
-g1e/2l/1GC/E1L[c] b - - 2 4
-g1e/2l/1GC/EL1[c] b - - 3 4
-g1e/2l/1GC/EL1[c] b - - 5 4
-g1e/2l/1GC/ELc[] b - - 5 4
-g1e/2l/2C/ELG[c] b - - 1 4
-g1e/2l/2C/ELG[c] b - - 3 4
-g1e/2l/2C/ELG[c] b - - 5 4
-g1e/2l/L1C/1cG[e] b - - 1 4
-g1e/2l/L1C/2G[Ce] b - - 1 4
-g1e/2l/L1C/E1G[C] b - - 2 4
-g1e/2l/L1C/E1G[c] b - - 3 4
-g1e/2l/L1C/E1G[c] b - - 5 4
-g1e/2l/L1C/EcG[] b - - 4 4
-g1e/2l/L1C/c1G[e] b - - 1 4
-g1e/2l/LE1/1cG[c] b - - 3 4
-g1e/2l/LE1/1cG[c] b - - 5 4
-g1e/2l/LE1/2G[Cc] b - - 0 4
-g1e/2l/LE1/2G[Cc] b - - 3 4
-g1e/2l/LE1/2G[Cc] b - - 5 4
-g1e/2l/LEc/2G[C] b - - 4 4
-g1e/2l/LEc/2G[c] b - - 3 4
-g1e/2l/LGC/E1c[] b - - 2 4
-g1e/2l/LGC/E1c[] b - - 4 4
-g1e/2l/LGC/Ec1[] b - - 2 4
-g1e/2l/c1G/1L1[Ce] b - - 1 4
-g1e/2l/c1G/EL1[c] b - - 1 4
-g1e/2l/cGC/E1L[] b - - 2 4
-g1e/2l/cGC/E1L[] b - - 4 4
-g1e/2l/cGC/EL1[] b - - 4 4
-g1e/2l/cGC/EL1[] b - - 5 4
-g1e/Clc/1G1/EL1[] b - - 3 4
-g1e/E1l/2C/1LG[c] b - - 3 4
-g1e/E1l/2C/1LG[c] b - - 5 4
-g1e/El1/1CG/1Lc[] b - - 4 4
-g1e/El1/cCG/1L1[] b - - 4 4
-g1e/ElG/3/1L1[CC] b - - 2 4
-g1e/Elc/1G1/1L1[C] b - - 4 4
-g1e/c1l/1GC/E1L[] b - - 2 4
-g1e/c1l/1GC/E1L[] b - - 4 4
-g1e/c1l/1GC/EL1[] b - - 4 4
-g1e/c1l/1GC/EL1[] b - - 5 4
-g1e/c1l/2C/ELG[] b - - 4 4
-g1e/c1l/2G/1L1[Ce] b - - 1 4
-g1e/cCl/1E1/1LG[] b - - 5 4
-g1e/cCl/2G/EL1[] b - - 4 4
-g1e/cCl/2G/EL1[] b - - 5 4
-g1e/cl1/1C1/EL1[g] b - - 1 4
-g1e/cl1/1E1/1LG[c] b - - 1 4
-g1e/clE/1C1/1LG[] b - - 3 4
-g1e/clE/1G1/1L1[C] b - - 4 4
-g1e/clG/1E1/1L1[c] b - - 1 4
-g1e/l1G/1E1/1L1[Cc] b - - 3 4
-g1e/l1G/1E1/1L1[Cc] b - - 5 4
-g1e/l1c/1E1/1GL[C] b - - 0 4
-g1e/l1c/C1G/EL1[] b - - 4 4
-g1e/l1c/CG1/E1L[] b - - 2 4
-g1e/l1c/CG1/E1L[] b - - 4 4
-g1e/l1c/CG1/EL1[] b - - 5 4
-g1e/l2/1EG/1L1[cc] b - - 1 4
-g1e/l2/1EG/1L1[cc] b - - 3 4
-g1e/l2/CG1/E1L[c] b - - 2 4
-g1e/l2/CG1/EL1[c] b - - 3 4
-g1e/l2/CG1/EL1[c] b - - 5 4
-g1e/l2/cEG/1L1[c] b - - 1 4
-g1e/l2/cEG/1L1[c] b - - 3 4
-g1e/l2/cEL/2G[C] b - - 0 4
-g1e/l2/cEL/2G[C] b - - 4 4
-g1e/l2/cEL/2G[c] b - - 3 4
-g1e/lC1/1E1/1LG[c] b - - 3 4
-g1e/lC1/1E1/1LG[c] b - - 5 4
-g1e/lC1/1EG/1L1[c] b - - 1 4
-g1e/lC1/1EG/1L1[c] b - - 3 4
-g1e/lC1/1EG/1Lc[] b - - 5 4
-g1e/lC1/C2/ELG[] b - - 2 4
-g1e/lC1/G1c/EL1[] b - - 4 4
-g1e/lC1/G2/EL1[C] b - - 0 4
-g1e/lC1/G2/EL1[C] b - - 4 4
-g1e/lC1/G2/EL1[C] b - - 6 4
-g1e/lC1/G2/ELc[] b - - 4 4
-g1e/lC1/cE1/1LG[] b - - 5 4
-g1e/lC1/cEG/1L1[] b - - 5 4
-g1e/lCC/1E1/1LG[] b - - 6 4
-g1e/lCc/G2/EL1[] b - - 4 4
-g1e/lGC/3/EL1[C] b - - 0 4
-g1e/lc1/C2/ELG[] b - - 4 4
-g1e/lc1/G1C/EL1[] b - - 4 4
-g1e/lc1/G2/EL1[C] b - - 5 4
-g1e/lcC/G2/EL1[] b - - 4 4
-g1e/lcE/C1L/2G[] b - - 4 4
-g1l/1E1/2L/E2[Cgc] b - - 2 4
-g1l/1GC/3/EL1[Ec] b - - 2 4
-g1l/1e1/GE1/1L1[Cc] b - - 4 4
-g1l/1eC/1E1/1LG[c] b - - 1 4
-g1l/1eC/1E1/1LG[c] b - - 4 4
-g1l/1eC/1E1/L1G[C] b - - 2 4
-g1l/1eC/1E1/L1G[c] b - - 4 4
-g1l/1eC/1E1/LcG[] b - - 5 4
-g1l/1eC/1E1/cLG[] b - - 5 4
-g1l/1eC/1EG/2L[c] b - - 2 4
-g1l/1eC/1EG/2L[c] b - - 4 4
-g1l/1eC/1EG/L2[c] b - - 4 4
-g1l/1eC/1EG/cL1[] b - - 5 4
-g1l/1eC/1Ec/L1G[] b - - 5 4
-g1l/1eC/1L1/E1G[C] b - - 0 4
-g1l/1eC/1L1/E1G[C] b - - 2 4
-g1l/1eC/1L1/EG1[C] b - - 2 4
-g1l/1eC/1L1/EcG[] b - - 5 4
-g1l/1eC/1LC/E1G[] b - - 2 4
-g1l/1eC/1cG/E1L[] b - - 5 4
-g1l/1eC/2G/1LE[c] b - - 4 4
-g1l/1eC/2G/E1L[c] b - - 4 4
-g1l/1eC/2G/EL1[c] b - - 1 4
-g1l/1eC/2G/EL1[c] b - - 4 4
-g1l/1eC/CL1/E1G[] b - - 2 4
-g1l/1eC/G2/EL1[c] b - - 4 4
-g1l/1eC/c1G/E1L[] b - - 5 4
-g1l/1eC/cE1/1LG[] b - - 5 4
-g1l/1eC/cEG/1L1[] b - - 5 4
-g1l/2C/1Le/EG1[c] b - - 5 4
-g1l/2C/eL1/E1G[c] b - - 5 4
-g1l/2C/eL1/EG1[c] b - - 5 4
-g1l/EeC/3/cLG[] b - - 5 4
-g1l/ceC/1E1/1LG[] b - - 5 4
-g2/1el/1E1/1GL[Cc] b - - 0 4
-g2/l2/e1L/E1G[Cc] b - - 3 4
-g2/l2/eEL/2G[Cc] b - - 5 4
-g2/lC1/cE1/ELG[] b - - 2 4
-g2/lCc/1E1/ELG[] b - - 2 4
-g2/lG1/2C/EL1[Ec] b - - 0 4
-g2/lG1/3/EL1[CCE] b - - 0 4
-g2/lG1/3/EL1[CEc] b - - 0 4
-g2/lG1/3/ELC[Ec] b - - 0 4
-g2/lGC/3/EL1[Ec] b - - 0 4
-g2/le1/1E1/1LG[Cc] b - - 1 4
-g2/le1/1E1/1LG[Cc] b - - 4 4
-g2/le1/1E1/1LG[Cc] b - - 5 4
-g2/le1/1EG/1L1[cc] b - - 1 4
-g2/le1/1EG/1L1[cc] b - - 3 4
-g2/le1/1Ec/1LG[c] b - - 1 4
-g2/le1/C2/ELG[C] b - - 2 4
-g2/le1/cEG/1L1[c] b - - 1 4
-g2/le1/cEG/1L1[c] b - - 3 4
-g2/le1/cEG/1LC[] b - - 3 4
-g2/le1/cEG/1LC[] b - - 5 4
-g2/leC/1E1/1LG[c] b - - 5 4
-g2/leC/1EG/1L1[C] b - - 0 4
-g2/leC/1EG/1L1[C] b - - 2 4
-g2/leC/1EG/1L1[c] b - - 5 4
-g2/leC/1EG/1Lc[] b - - 3 4
-g2/leC/1EG/1Lc[] b - - 5 4
-g2/leC/cE1/1LG[] b - - 3 4
-g2/leC/cE1/1LG[] b - - 5 4
-g2/leC/cEG/1L1[] b - - 3 4
-g2/leC/cEG/1L1[] b - - 5 4
-g2/leE/C1c/1LG[] b - - 5 4
-g2/leE/C2/1LG[C] b - - 2 4
-g2/leE/C2/cLG[] b - - 5 4
-g2/leG/cE1/1L1[C] b - - 3 4
-gC1/lG1/3/EL1[Ec] b - - 0 4
-gC1/le1/1EG/1L1[C] b - - 0 4
-gC1/le1/1EG/1L1[c] b - - 5 4
-gC1/le1/cEG/1L1[] b - - 3 4
-gC1/le1/cEG/1L1[] b - - 5 4
-gC1/lec/1EG/1L1[] b - - 3 4
-gC1/lec/1EG/1L1[] b - - 5 4
-gCe/1Cl/1E1/1LG[] b - - 6 4
-gCe/1l1/cG1/EL1[] b - - 3 4
-gCe/1l1/cG1/EL1[] b - - 5 4
-gCe/1lG/1E1/1L1[C] b - - 0 4
-gCe/1lG/1E1/1Lc[] b - - 4 4
-gCe/2l/LE1/1cG[] b - - 5 4
-gCe/2l/LE1/2G[C] b - - 0 4
-gCe/2l/LEc/2G[] b - - 5 4
-gCe/2l/c1G/EL1[] b - - 4 4
-gCe/cl1/1E1/1LG[] b - - 4 4
-gCe/cl1/1EG/2L[] b - - 4 4
-gCe/cl1/2G/E1L[] b - - 3 4
-gCe/cl1/2G/EL1[] b - - 4 4
-gCe/clE/2G/1L1[] b - - 4 4
-gCe/clG/1E1/1L1[] b - - 4 4
-gCe/l2/1EG/1L1[c] b - - 3 4
-gCe/l2/1EG/1L1[c] b - - 5 4
-gCe/l2/c1G/1LE[] b - - 4 4
-gCe/l2/cEG/1L1[] b - - 5 4
-gCe/l2/cEL/2G[] b - - 5 4
-gCl/1eC/1E1/1LG[] b - - 6 4
-gCl/1eC/2G/EL1[] b - - 6 4
-gE+C/lc1/3/ELG[] b - - 2 4
-gE1/l2/1CG/EL1[c] b - - 2 4
-gE1/lC1/c2/ELG[] b - - 2 4
-gEC/l2/2c/ELG[] b - - 2 4
-gEC/l2/c2/ELG[] b - - 2 4
-gc1/lC1/2E/ELG[] b - - 2 4
-gc1/lC1/E2/ELG[] b - - 2 4
-gcC/l2/2E/ELG[] b - - 2 4
-gcE/lC1/3/ELG[] b - - 2 4
-gce/1l1/1EC/L1G[] b - - 3 4
-gce/Cl1/1E1/L1G[] b - - 3 4
-gce/El1/1CG/1L1[] b - - 4 4
-gce/l2/1GL/EC1[] b - - 4 4
-gce/lC1/G2/EL1[] b - - 4 4
-gl+C/1c1/1E1/1LG[E] b - - 0 4
-gl+C/1c1/L1e/E1G[] b - - 5 4
-gl+C/1c1/L2/E1G[E] b - - 0 4
-gl+C/1c1/L2/E1G[E] b - - 2 4
-gl+C/1e1/1E1/1LG[c] b - - 3 4
-gl+C/3/1L1/+c1G[Ee] b - - 0 4
-gl+C/3/1L1/E1+c[Eg] b - - 0 4
-gl+C/3/1L1/EeG[c] b - - 5 4
-gl+C/3/1Le/E1G[c] b - - 4 4
-gl+C/3/LE1/2+c[Eg] b - - 0 4
-gl+C/3/eL1/E1G[c] b - - 4 4
-gl+C/ce1/1EG/1L1[] b - - 4 4
-gl1/1C1/1L1/Ee1[gc] b - - 1 4
-gl1/1C1/1L1/Ee1[gc] b - - 3 4
-gl1/1E1/L1C/EcG[] b - - 2 4
-gl1/1E1/L1G/Ec1[C] b - - 2 4
-gl1/1GC/2c/EL1[E] b - - 0 4
-gl1/1GC/3/ELc[E] b - - 0 4
-gl1/1GC/c2/EL1[E] b - - 0 4
-gl1/1c1/2G/E1L[Ec] b - - 2 4
-gl1/1e1/CG1/EL1[c] b - - 3 4
-gl1/1e1/CG1/EL1[c] b - - 5 4
-gl1/1e1/cEG/1L1[c] b - - 1 4
-gl1/1eE/C1G/1L1[C] b - - 0 4
-gl1/1eE/C1G/1Lc[] b - - 4 4
-gl1/1ec/1G1/1LE[C] b - - 4 4
-gl1/1ec/1G1/E1L[C] b - - 0 4
-gl1/1ec/1G1/E1L[C] b - - 4 4
-gl1/1ec/1G1/E1L[C] b - - 5 4
-gl1/1ec/G2/EL1[C] b - - 5 4
-gl1/2C/e1L/EcG[] b - - 5 4
-gl1/2c/2e/EGL[C] b - - 5 4
-gl1/3/1Ee/1GL[Cc] b - - 0 4
-gl1/3/2L/2E[CEgc] b - - 0 4
-gl1/3/cL1/E1G[Ec] b - - 2 4
-gl1/Ee1/C1G/cL1[] b - - 4 4
-gl1/c1C/E1G/EL1[] b - - 2 4
-gl1/c1E/1CL/E1G[] b - - 2 4
-gl1/c1E/2L/E1G[c] b - - 2 4
-gl1/cGC/3/EL1[E] b - - 0 4
-gl1/ceE/2G/1LC[] b - - 4 4
-gl1/ceE/2G/2L[C] b - - 2 4
-gl1/ceE/2G/2L[C] b - - 4 4
-gl1/ceE/2G/L2[C] b - - 4 4
-gl1/ceE/C1G/1L1[] b - - 4 4
-gl1/g1E/2L/E2[Cc] b - - 2 4
-glC/2c/2E/ELG[] b - - 2 4
-glC/c1E/2L/E1G[] b - - 2 4
-glC/ceE/2G/1L1[] b - - 4 4
-glE/c2/C1L/E1G[] b - - 2 4
-glG/1c1/L2/E+c1[E] b - - 0 4
-glG/3/1Le/E2[Cc] b - - 4 4
-glG/3/L1c/E+c1[E] b - - 0 4
-glG/3/L1c/Ec1[E] b - - 0 4
-glG/3/L2/E+cc[E] b - - 0 4
-glG/3/L2/Ecc[E] b - - 0 4
-glG/3/Lc1/E2[Ec] b - - 0 4
-glG/3/cL1/E2[CE] b - - 0 4
-glG/3/eL1/E2[Cc] b - - 4 4
-glc/1C1/1EG/1L1[E] b - - 2 4
-glc/1G1/1c1/E1L[E] b - - 0 4
-glc/1G1/2C/EL1[E] b - - 0 4
-glc/1G1/3/ELC[E] b - - 0 4
-glc/1G1/C2/EL1[E] b - - 0 4
-glc/1GC/3/EL1[E] b - - 0 4
-glc/1eE/C1G/1L1[] b - - 4 4
-glc/2E/C1L/E1G[] b - - 2 4
-glc/2E/L1C/E1G[] b - - 2 4
-glc/2E/LE1/2G[C] b - - 2 4
-glc/3/L1E/E1G[c] b - - 2 4
-glc/E2/1LG/E2[C] b - - 2 4
-glc/E2/L1C/E1G[] b - - 2 4
-glc/E2/L1G/E2[C] b - - 2 4
-gle/1C1/1EL/c1G[] b - - 5 4
-gle/1C1/1L1/EG1[C] b - - 2 4
-gle/1C1/1L1/EcG[] b - - 3 4
-gle/1C1/1LG/E1c[] b - - 5 4
-gle/1C1/1LG/E2[C] b - - 2 4
-gle/1C1/1LG/Ec1[] b - - 5 4
-gle/1C1/2L/E+cG[] b - - 2 4
-gle/1C1/C1G/EL1[] b - - 2 4
-gle/1C1/CL1/E1G[] b - - 2 4
-gle/1C1/L1G/Ec1[] b - - 5 4
-gle/1C1/L2/E+cG[] b - - 2 4
-gle/1C1/LE1/1cG[] b - - 5 4
-gle/1C1/LE1/c1G[] b - - 5 4
-gle/1C1/cEG/1L1[] b - - 5 4
-gle/1C1/cEL/2G[] b - - 5 4
-gle/1CC/1L1/E1G[] b - - 2 4
-gle/1CG/1E1/1L1[c] b - - 2 4
-gle/1CG/1E1/1L1[c] b - - 4 4
-gle/1CG/1E1/cL1[] b - - 4 4
-gle/1CG/cE1/1L1[] b - - 4 4
-gle/1Cc/1G1/EL1[] b - - 5 4
-gle/1c1/1E1/LG1[C] b - - 5 4
-gle/1c1/1EC/1LG[] b - - 3 4
-gle/2C/L1G/Ec1[] b - - 5 4
-gle/2E/2L/+c1G[c] b - - 1 4
-gle/2E/2L/+cG1[C] b - - 2 4
-gle/2E/2L/+cG1[C] b - - 4 4
-gle/2E/2L/1+c1[Cg] b - - 0 4
-gle/2E/2L/1CG[c] b - - 4 4
-gle/2E/2L/1c1[Cg] b - - 0 4
-gle/2E/2L/2G[cc] b - - 1 4
-gle/2E/2L/C1G[c] b - - 4 4
-gle/2E/2L/gc1[c] b - - 3 4
-gle/2E/C1G/1L1[c] b - - 4 4
-gle/2E/L1c/1G1[C] b - - 2 4
-gle/2E/L1c/1G1[C] b - - 4 4
-gle/2E/L2/1Gc[C] b - - 2 4
-gle/2E/L2/1Gc[C] b - - 4 4
-gle/2E/L2/1cG[C] b - - 5 4
-gle/2E/L2/2G[CC] b - - 0 4
-gle/2E/c1L/2G[C] b - - 5 4
-gle/2E/c1L/2G[c] b - - 1 4
-gle/2c/L2/E1G[C] b - - 3 4
-gle/3/1C1/EcL[g] b - - 1 4
-gle/3/1EG/2L[cc] b - - 1 4
-gle/3/1LC/ECG[] b - - 2 4
-gle/3/1LG/EC1[C] b - - 0 4
-gle/3/1LG/EC1[C] b - - 2 4
-gle/3/L1C/E1G[C] b - - 0 4
-gle/3/c1G/1LE[c] b - - 1 4
-gle/C1E/2L/+c1G[] b - - 4 4
-gle/C1E/2L/c1G[] b - - 4 4
-gle/C2/1EL/cG1[] b - - 2 4
-gle/C2/1EL/cG1[] b - - 4 4
-gle/CcE/3/1LG[] b - - 5 4
-gle/E2/L1G/1c1[C] b - - 0 4
-gle/c1E/2C/1LG[] b - - 5 4
-gle/c2/1L1/E1G[C] b - - 3 4
-gle/c2/1L1/E1G[C] b - - 5 4
-gle/c2/1L1/EcG[] b - - 5 4
-gle/c2/1LC/E1G[] b - - 3 4
-gle/c2/1LC/E1G[] b - - 5 4
-gle/c2/2G/ECL[] b - - 5 4
-gle/c2/2L/E1G[C] b - - 3 4
-gle/c2/2L/E1G[C] b - - 5 4
-gle/c2/2L/EG1[C] b - - 0 4
-gle/c2/2L/EG1[C] b - - 5 4
-gle/c2/CL1/E1G[] b - - 3 4
-gle/c2/CL1/E1G[] b - - 5 4
-l+C1/g2/3/ELG[Ec] b - - 2 4
-l+Ce/g2/1EG/1L1[c] b - - 4 4
-l+Ce/g2/1EL/2G[c] b - - 4 4
-l+Ce/g2/1LG/E2[c] b - - 4 4
-l1e/1C1/g2/ELG[C] b - - 4 4
-l1e/1G1/LC1/E2[GC] b - - 0 4
-l1e/CC1/gEL/2G[] b - - 4 4
-l1e/Cg1/1EL/2G[c] b - - 3 4
-l1e/g2/1LG/E1C[c] b - - 2 4
-l1e/g2/1LG/E1C[c] b - - 3 4
-l1e/g2/1LG/E1C[c] b - - 4 4
-l1e/g2/1LG/E1C[c] b - - 5 4
-lCe/1G1/2L/E1G[C] b - - 2 4
-lG1/Ee1/3/1LG[Cc] b - - 2 4
-lGe/1c1/LC1/E1G[] b - - 2 4
-lge/1C1/1EL/C1G[] b - - 4 4
-lge/1C1/1LG/E1C[] b - - 4 4
-lge/1C1/1LG/E1C[] b - - 6 4
-lge/1C1/C1L/EG1[] b - - 2 4
-lge/1C1/C1L/EG1[] b - - 4 4
-lge/1C1/C1L/EG1[] b - - 6 4
-lge/1C1/L1G/E1C[] b - - 4 4
-lge/1G1/1C1/E1L[C] b - - 2 4
-lge/1G1/1C1/ELC[] b - - 2 4
-lge/1G1/LC1/E2[C] b - - 2 4
-lge/1c1/LCG/E2[] b - - 7 4
-lge/C1G/3/EL1[c] b - - 5 4
-lge/C2/1G1/EL1[c] b - - 5 4
-lge/C2/2G/E1L[c] b - - 5 4
-lge/C2/2L/E1G[c] b - - 3 4
-lge/G2/1C1/EL1[C] b - - 2 4
++C1e/1cl/1E1/1LG[G] b 2 4
++Cce/1l1/2G/EL1[G] b 0 4
++Cce/1l1/2G/EL1[G] b 2 4
++Cle/1g1/2G/EL1[C] b 0 4
++Cle/1g1/2G/ELc[] b 3 4
++Cle/1g1/2L/E1G[C] b 0 4
++Cle/1g1/2L/EcG[] b 3 4
++Cle/1g1/c1G/EL1[] b 3 4
++Cle/3/1L1/E1+c[Gg] b 0 4
++Cle/3/1L1/E1c[Gg] b 0 4
++Cle/3/1Lc/E2[Gg] b 0 4
++Cle/3/LE1/2+c[Gg] b 0 4
++Cle/3/LE1/2c[Gg] b 0 4
+1+C1/glc/3/ELG[E] b 2 4
+1+CC/gel/1E1/1LG[] b 6 4
+1+CG/1el/3/ELG[c] b 2 4
+1+CG/1el/C2/ELG[] b 2 4
+1+Ce/1cl/2G/EL1[G] b 2 4
+1+Ce/1cl/2G/ELG[] b 2 4
+1+Ce/1gl/2G/EL1[c] b 1 4
+1+Ce/1gl/2G/EL1[c] b 3 4
+1+Ce/1gl/C1G/EL1[] b 6 4
+1+Ce/c1l/2G/ELG[] b 2 4
+1+Ce/g1l/1E1/1LG[C] b 0 4
+1+Ce/g1l/1Ec/1LG[] b 3 4
+1+Ce/g1l/2G/EL1[C] b 0 4
+1+Ce/g1l/c1G/EL1[] b 3 4
+1+Ce/g1l/cE1/1LG[] b 3 4
+1+Ce/l1c/G2/ELG[] b 2 4
+1+Ce/l2/G1c/ELG[] b 2 4
+1+Ce/lGc/3/ELG[] b 2 4
+1+Ce/lc1/G2/ELG[] b 2 4
+1Ce/1Cl/g1G/EL1[] b 6 4
+1Ce/1gl/2G/EL1[c] b 1 4
+1Ce/1gl/2G/EL1[c] b 3 4
+1Ce/1gl/C1G/EL1[] b 6 4
+1Ee/2l/L2/2G[GCc] b 2 4
+1g+C/le1/2G/EL1[c] b 3 4
+1g1/1el/1E1/1LG[cc] b 1 4
+1g1/1el/CE1/1LG[c] b 1 4
+1g1/1el/CE1/1LG[c] b 3 4
+1g1/Cel/1E1/1LG[c] b 1 4
+1g1/le1/1E1/1LG[cc] b 1 4
+1g1/le1/1EC/1LG[c] b 1 4
+1g1/le1/1EC/1LG[c] b 3 4
+1g1/leC/1E1/1LG[c] b 1 4
+1g1/leC/1E1/1LG[c] b 3 4
+1g1/leC/1E1/1LG[c] b 5 4
+1g1/leC/1EG/1L1[c] b 1 4
+1g1/leC/1EG/1L1[c] b 3 4
+1g1/leC/1EG/1L1[c] b 5 4
+1gC/1el/1E1/1LG[c] b 1 4
+1gC/le1/1E1/1LG[c] b 1 4
+1gC/le1/1E1/1LG[c] b 5 4
+1gC/le1/1EG/1L1[c] b 3 4
+1ge/+Clc/3/ELG[] b 5 4
+1ge/1Cl/1E1/1LG[c] b 5 4
+1ge/1Cl/2G/EL1[c] b 4 4
+1ge/1Cl/2G/EL1[c] b 5 4
+1ge/1Cl/c1G/EL1[] b 3 4
+1ge/1Cl/cE1/1LG[] b 3 4
+1ge/1l1/1E1/L1G[cc] b 1 4
+1ge/1lG/1E1/1L1[cc] b 1 4
+1ge/1lG/1E1/1LC[c] b 4 4
+1ge/1lG/1E1/CL1[c] b 4 4
+1ge/1lc/1G1/EL1[c] b 3 4
+1ge/1lc/CG1/EL1[] b 5 4
+1ge/2l/1E1/1LG[cc] b 1 4
+1ge/2l/2C/ELG[c] b 5 4
+1ge/2l/2G/1L1[Cce] b 1 4
+1ge/2l/2G/EL1[Cc] b 5 4
+1ge/2l/2G/EL1[cc] b 1 4
+1ge/2l/2G/ELC[c] b 4 4
+1ge/2l/C1G/EL1[c] b 4 4
+1ge/2l/CE1/1LG[C] b 0 4
+1ge/Cl1/1CG/EL1[] b 2 4
+1ge/Clc/1G1/EL1[] b 5 4
+1ge/E1l/2C/1LG[c] b 5 4
+1ge/E1l/2G/1L1[Cc] b 5 4
+1ge/cCl/1E1/1LG[] b 3 4
+1ge/cCl/2G/EL1[] b 3 4
+1ge/gCl/1E1/1L1[C] b 2 4
+1ge/l2/CG1/E1L[c] b 2 4
+1ge/l2/CG1/E1L[c] b 4 4
+1ge/l2/CG1/EL1[c] b 5 4
+1ge/l2/CGL/E2[c] b 2 4
+1ge/l2/CGL/E2[c] b 4 4
+1gl/1e1/1GC/EL1[c] b 5 4
+1gl/1eC/3/ELG[c] b 5 4
+1gl/Ee1/3/CLG[c] b 5 4
+1gl/EeC/3/1LG[c] b 5 4
+1l1/g2/e1G/E1L[Cc] b 3 4
+1l1/g2/e1G/E1L[Cc] b 5 4
+1l1/g2/eEL/2G[Cc] b 5 4
+1l1/g2/eLG/E2[Cc] b 5 4
+1l1/ge1/1EC/L1G[c] b 4 4
+1l1/ge1/1G1/ELc[c] b 1 4
+1l1/ge1/1G1/ELc[c] b 3 4
+1l1/ge1/1LC/EcG[] b 3 4
+1lC/ge1/3/ELG[C] b 0 4
+1lC/ge1/3/ELG[C] b 2 4
+1lC/geC/3/ELG[] b 2 4
+1le/1g1/1G1/EL1[Cc] b 2 4
+1le/2E/g1L/1G1[Cc] b 2 4
+1le/3/1G1/ELG[cc] b 1 4
+1le/Cg1/1E1/1LG[c] b 2 4
+1le/g1C/cL1/E1G[] b 2 4
+1le/g1E/2L/1cG[c] b 1 4
+1le/g1E/2L/2G[Cc] b 3 4
+1le/g1E/2L/2G[Cc] b 5 4
+1le/g1E/c1L/1CG[] b 4 4
+1le/g1E/c1L/C1G[] b 4 4
+1le/g1c/1G1/EL1[C] b 2 4
+1le/g2/1EC/1LG[c] b 1 4
+1le/g2/1EC/1LG[c] b 3 4
+1le/g2/1G1/E1L[Cc] b 3 4
+1le/g2/1G1/E1L[Cc] b 5 4
+1le/g2/1GC/EL1[c] b 5 4
+1le/gC1/c1G/E1L[] b 4 4
+1le/gcE/2G/1L1[c] b 1 4
+1le/gcE/2G/1LC[] b 4 4
+1le/gcE/2G/2L[C] b 2 4
+1le/gcE/2G/2L[C] b 4 4
+1le/gcE/2G/L2[C] b 4 4
+1le/gcE/2L/1CG[] b 4 4
+1le/gcE/2L/2G[c] b 1 4
+1le/gcE/3/1LG[C] b 2 4
+2+C/1gl/C2/ELG[E] b 0 4
+2+C/gcl/3/ELG[E] b 0 4
+2+C/gel/3/ELG[c] b 1 4
+2+C/gel/3/ELG[c] b 3 4
+2e/1gl/1GC/EL1[c] b 3 4
+2e/1gl/2C/ELG[c] b 1 4
+2e/1gl/2C/ELG[c] b 3 4
+2e/1gl/2G/EL1[Cc] b 1 4
+2e/1gl/2G/EL1[Cc] b 3 4
+2e/1gl/2G/EL1[cc] b 1 4
+2e/1gl/C1G/EL1[c] b 3 4
+2e/1gl/L1C/E1G[c] b 3 4
+2e/Cgl/2G/EL1[c] b 1 4
+2e/Cgl/2G/EL1[c] b 3 4
+2e/EGl/L2/2G[Cc] b 2 4
+2e/g1l/1E1/1LG[cc] b 1 4
+2e/g1l/1GC/E1L[c] b 2 4
+2e/g1l/1GC/E1L[c] b 4 4
+2e/gCl/1E1/1LG[c] b 5 4
+2e/gCl/2G/EL1[c] b 4 4
+2e/gCl/2G/EL1[c] b 5 4
+2e/glE/1CG/1L1[c] b 4 4
+2e/glc/1G1/ELC[] b 3 4
+2e/glc/1G1/ELC[] b 5 4
+2e/lg1/1EG/1LC[c] b 1 4
+2l/EeG/3/1LG[Cc] b 2 4
+2l/ge1/1CG/E1L[c] b 5 4
+2l/geC/1E1/1LG[c] b 5 4
+2l/geC/1E1/L1G[c] b 5 4
+2l/geC/1LG/E2[c] b 3 4
+2l/geC/1LG/E2[c] b 5 4
+2l/geC/2G/E1L[c] b 3 4
+2l/geC/2G/E1L[c] b 5 4
+2l/geC/3/ELG[c] b 3 4
+2l/geC/3/ELG[c] b 5 4
+3/gel/1G1/ELC[c] b 3 4
+3/gel/1G1/ELC[c] b 5 4
+C+C1/gel/1E1/1LG[] b 6 4
+C+Ce/2l/g1G/EL1[] b 6 4
+C1e/1cl/2G/ELG[] b 2 4
+C1e/1gl/2G/EL1[c] b 1 4
+C1e/1gl/2G/EL1[c] b 3 4
+CCe/1gl/2G/EL1[] b 6 4
+CcG/1el/3/ELG[] b 2 4
+Ccl/1eG/3/ELG[] b 2 4
+Cg1/1el/1E1/1LG[c] b 1 4
+Cg1/1el/1E1/1LG[c] b 3 4
+Cg1/le1/1E1/1LG[c] b 3 4
+Cge/2l/1E1/1LG[c] b 5 4
+Cge/2l/2G/EL1[c] b 5 4
+Cge/2l/c1G/EL1[] b 3 4
+Cge/2l/cE1/1LG[] b 3 4
+Cge/c1l/1E1/1LG[] b 3 4
+Cge/c1l/2G/EL1[] b 3 4
+Cge/l2/1EG/1L1[c] b 5 4
+Cl1/geE/2G/1L1[c] b 4 4
+Cle/g1E/2L/1cG[] b 4 4
+Cle/g1E/2L/2G[C] b 0 4
+Cle/g1E/2L/c1G[] b 4 4
+Cle/g1E/c1L/2G[] b 4 4
+Cle/gcE/2G/1L1[] b 4 4
+Cle/gcE/2L/2G[] b 4 4
+E1C/gl1/c2/ELG[] b 2 4
+G+C1/le1/3/ELG[c] b 2 4
+GC1/le1/2C/ELG[] b 2 4
+GCe/1l1/2C/ELG[] b 2 4
+Gle/3/2L/E1G[Cc] b 1 4
+c+Ce/2l/1E1/1LG[G] b 2 4
+c+Ce/g1l/2G/EL1[] b 3 4
+c+Ce/l2/1E1/1LG[G] b 2 4
+c+Ce/l2/G2/ELG[] b 2 4
+c1e/El1/2C/1LG[G] b 0 4
+c1e/gl1/2C/ELG[] b 3 4
+c1e/gl1/2C/ELG[] b 5 4
+c1e/glE/2G/1L1[C] b 3 4
+cCe/g1l/1E1/1LG[] b 3 4
+cCe/g1l/2G/EL1[] b 3 4
+cge/1Cl/1E1/1LG[] b 3 4
+cge/1Cl/2G/EL1[] b 3 4
+cge/1l1/1E1/LCG[] b 5 4
+cge/1l1/1EC/L1G[] b 5 4
+cge/Cl1/1E1/1LG[] b 5 4
+cge/Cl1/1E1/L1G[] b 5 4
+cge/Cl1/1EG/1L1[] b 5 4
+cge/El1/2G/1L1[C] b 5 4
+cge/lC1/1E1/1LG[] b 3 4
+cge/lC1/1G1/EL1[] b 3 4
+cl+C/g2/1G1/EL1[E] b 0 4
+cl+C/g2/1L1/E1G[E] b 0 4
+cl1/geE/2C/1LG[] b 5 4
+cl1/geE/2G/1L1[C] b 3 4
+cl1/geE/2G/1L1[C] b 5 4
+clG/g2/1L1/E2[CE] b 0 4
+cle/E2/C1L/2G[G] b 0 4
+cle/g1E/2G/1LC[] b 4 4
+g+Ce/2l/1CG/EL1[] b 6 4
+g+Ce/2l/1E1/1LG[c] b 1 4
+g+Ce/2l/1E1/1LG[c] b 3 4
+g+Ce/2l/CE1/1LG[] b 6 4
+g+Ce/l2/1E1/1LG[c] b 1 4
+g+Ce/l2/1EC/1LG[] b 6 4
+g1+C/lc1/1E1/1LG[E] b 2 4
+g1+C/le1/C2/ELG[] b 2 4
+g1C/1el/1Ec/1LG[] b 5 4
+g1C/1el/1G1/ELc[] b 5 4
+g1C/1el/cE1/1LG[] b 5 4
+g1C/l2/eEL/2G[c] b 5 4
+g1C/lG1/3/EL1[Ec] b 0 4
+g1C/le1/1E1/1LG[C] b 0 4
+g1C/le1/1E1/1LG[C] b 2 4
+g1C/le1/1EG/1L1[C] b 0 4
+g1C/le1/1EG/1L1[C] b 2 4
+g1C/le1/1EG/1Lc[] b 3 4
+g1C/le1/1EG/1Lc[] b 5 4
+g1C/le1/cE1/1LG[] b 5 4
+g1C/leC/2G/EL1[] b 2 4
+g1C/lec/1E1/1LG[] b 3 4
+g1C/lec/1E1/1LG[] b 5 4
+g1c/1Cl/1E1/1LG[E] b 2 4
+g1c/1Cl/1E1/ELG[] b 2 4
+g1c/1Cl/2G/EL1[E] b 2 4
+g1c/Cel/1E1/1LG[] b 3 4
+g1c/Cel/1E1/1LG[] b 5 4
+g1c/lC1/1E1/ELG[] b 2 4
+g1c/le1/1EG/1LC[] b 3 4
+g1c/le1/1EG/1LC[] b 5 4
+g1c/leC/1E1/1LG[] b 3 4
+g1c/leC/1E1/1LG[] b 5 4
+g1e/1Cl/1E1/1LG[c] b 1 4
+g1e/1Cl/1E1/1LG[c] b 3 4
+g1e/1Cl/1E1/1LG[c] b 5 4
+g1e/1Cl/2C/ELG[] b 2 4
+g1e/1Cl/2C/ELG[] b 4 4
+g1e/1Cl/2C/ELG[] b 6 4
+g1e/1Cl/2G/EL1[c] b 1 4
+g1e/1Cl/2G/EL1[c] b 3 4
+g1e/1Cl/2G/EL1[c] b 5 4
+g1e/1Cl/2G/ELc[] b 4 4
+g1e/1Cl/c1G/EL1[] b 4 4
+g1e/1Cl/c1G/EL1[] b 5 4
+g1e/1Cl/cE1/1LG[] b 5 4
+g1e/1cl/1GC/E1L[] b 2 4
+g1e/1cl/1GC/E1L[] b 4 4
+g1e/1cl/1GC/EL1[] b 4 4
+g1e/1cl/2G/E1L[C] b 2 4
+g1e/1cl/2G/E1L[C] b 4 4
+g1e/1cl/2G/ELC[] b 4 4
+g1e/1cl/G1C/EL1[] b 4 4
+g1e/1cl/LGC/E2[] b 2 4
+g1e/1cl/LGC/E2[] b 4 4
+g1e/1l1/1CG/EL1[c] b 2 4
+g1e/1l1/1CG/EL1[c] b 3 4
+g1e/1l1/1CG/EL1[c] b 4 4
+g1e/1l1/2C/ELG[c] b 1 4
+g1e/1l1/2C/ELG[c] b 3 4
+g1e/1l1/2C/ELG[c] b 5 4
+g1e/1l1/CG1/EL1[c] b 3 4
+g1e/1l1/CG1/EL1[c] b 5 4
+g1e/1l1/GC1/EL1[c] b 4 4
+g1e/1lE/cCG/1L1[] b 4 4
+g1e/1lG/1E1/1L1[Cc] b 0 4
+g1e/1lG/1E1/1L1[Cc] b 3 4
+g1e/1lG/1E1/1L1[Cc] b 5 4
+g1e/1lG/1E1/1Lc[c] b 1 4
+g1e/1lG/1E1/cL1[c] b 1 4
+g1e/1lG/cE1/1L1[c] b 1 4
+g1e/1lc/CG1/EL1[] b 3 4
+g1e/1lc/GC1/EL1[] b 4 4
+g1e/2l/1CG/EL1[c] b 3 4
+g1e/2l/1GC/E1L[c] b 2 4
+g1e/2l/1GC/EL1[c] b 3 4
+g1e/2l/1GC/EL1[c] b 5 4
+g1e/2l/1GC/ELc[] b 5 4
+g1e/2l/2C/ELG[c] b 1 4
+g1e/2l/2C/ELG[c] b 3 4
+g1e/2l/2C/ELG[c] b 5 4
+g1e/2l/L1C/1cG[e] b 1 4
+g1e/2l/L1C/2G[Ce] b 1 4
+g1e/2l/L1C/E1G[C] b 2 4
+g1e/2l/L1C/E1G[c] b 3 4
+g1e/2l/L1C/E1G[c] b 5 4
+g1e/2l/L1C/EcG[] b 4 4
+g1e/2l/L1C/c1G[e] b 1 4
+g1e/2l/LE1/1cG[c] b 3 4
+g1e/2l/LE1/1cG[c] b 5 4
+g1e/2l/LE1/2G[Cc] b 0 4
+g1e/2l/LE1/2G[Cc] b 3 4
+g1e/2l/LE1/2G[Cc] b 5 4
+g1e/2l/LEc/2G[C] b 4 4
+g1e/2l/LEc/2G[c] b 3 4
+g1e/2l/LGC/E1c[] b 2 4
+g1e/2l/LGC/E1c[] b 4 4
+g1e/2l/LGC/Ec1[] b 2 4
+g1e/2l/c1G/1L1[Ce] b 1 4
+g1e/2l/c1G/EL1[c] b 1 4
+g1e/2l/cGC/E1L[] b 2 4
+g1e/2l/cGC/E1L[] b 4 4
+g1e/2l/cGC/EL1[] b 4 4
+g1e/2l/cGC/EL1[] b 5 4
+g1e/Clc/1G1/EL1[] b 3 4
+g1e/E1l/2C/1LG[c] b 3 4
+g1e/E1l/2C/1LG[c] b 5 4
+g1e/El1/1CG/1Lc[] b 4 4
+g1e/El1/cCG/1L1[] b 4 4
+g1e/ElG/3/1L1[CC] b 2 4
+g1e/Elc/1G1/1L1[C] b 4 4
+g1e/c1l/1GC/E1L[] b 2 4
+g1e/c1l/1GC/E1L[] b 4 4
+g1e/c1l/1GC/EL1[] b 4 4
+g1e/c1l/1GC/EL1[] b 5 4
+g1e/c1l/2C/ELG[] b 4 4
+g1e/c1l/2G/1L1[Ce] b 1 4
+g1e/cCl/1E1/1LG[] b 5 4
+g1e/cCl/2G/EL1[] b 4 4
+g1e/cCl/2G/EL1[] b 5 4
+g1e/cl1/1C1/EL1[g] b 1 4
+g1e/cl1/1E1/1LG[c] b 1 4
+g1e/clE/1C1/1LG[] b 3 4
+g1e/clE/1G1/1L1[C] b 4 4
+g1e/clG/1E1/1L1[c] b 1 4
+g1e/l1G/1E1/1L1[Cc] b 3 4
+g1e/l1G/1E1/1L1[Cc] b 5 4
+g1e/l1c/1E1/1GL[C] b 0 4
+g1e/l1c/C1G/EL1[] b 4 4
+g1e/l1c/CG1/E1L[] b 2 4
+g1e/l1c/CG1/E1L[] b 4 4
+g1e/l1c/CG1/EL1[] b 5 4
+g1e/l2/1EG/1L1[cc] b 1 4
+g1e/l2/1EG/1L1[cc] b 3 4
+g1e/l2/CG1/E1L[c] b 2 4
+g1e/l2/CG1/EL1[c] b 3 4
+g1e/l2/CG1/EL1[c] b 5 4
+g1e/l2/cEG/1L1[c] b 1 4
+g1e/l2/cEG/1L1[c] b 3 4
+g1e/l2/cEL/2G[C] b 0 4
+g1e/l2/cEL/2G[C] b 4 4
+g1e/l2/cEL/2G[c] b 3 4
+g1e/lC1/1E1/1LG[c] b 3 4
+g1e/lC1/1E1/1LG[c] b 5 4
+g1e/lC1/1EG/1L1[c] b 1 4
+g1e/lC1/1EG/1L1[c] b 3 4
+g1e/lC1/1EG/1Lc[] b 5 4
+g1e/lC1/C2/ELG[] b 2 4
+g1e/lC1/G1c/EL1[] b 4 4
+g1e/lC1/G2/EL1[C] b 0 4
+g1e/lC1/G2/EL1[C] b 4 4
+g1e/lC1/G2/EL1[C] b 6 4
+g1e/lC1/G2/ELc[] b 4 4
+g1e/lC1/cE1/1LG[] b 5 4
+g1e/lC1/cEG/1L1[] b 5 4
+g1e/lCC/1E1/1LG[] b 6 4
+g1e/lCc/G2/EL1[] b 4 4
+g1e/lGC/3/EL1[C] b 0 4
+g1e/lc1/C2/ELG[] b 4 4
+g1e/lc1/G1C/EL1[] b 4 4
+g1e/lc1/G2/EL1[C] b 5 4
+g1e/lcC/G2/EL1[] b 4 4
+g1e/lcE/C1L/2G[] b 4 4
+g1l/1E1/2L/E2[Cgc] b 2 4
+g1l/1GC/3/EL1[Ec] b 2 4
+g1l/1e1/GE1/1L1[Cc] b 4 4
+g1l/1eC/1E1/1LG[c] b 1 4
+g1l/1eC/1E1/1LG[c] b 4 4
+g1l/1eC/1E1/L1G[C] b 2 4
+g1l/1eC/1E1/L1G[c] b 4 4
+g1l/1eC/1E1/LcG[] b 5 4
+g1l/1eC/1E1/cLG[] b 5 4
+g1l/1eC/1EG/2L[c] b 2 4
+g1l/1eC/1EG/2L[c] b 4 4
+g1l/1eC/1EG/L2[c] b 4 4
+g1l/1eC/1EG/cL1[] b 5 4
+g1l/1eC/1Ec/L1G[] b 5 4
+g1l/1eC/1L1/E1G[C] b 0 4
+g1l/1eC/1L1/E1G[C] b 2 4
+g1l/1eC/1L1/EG1[C] b 2 4
+g1l/1eC/1L1/EcG[] b 5 4
+g1l/1eC/1LC/E1G[] b 2 4
+g1l/1eC/1cG/E1L[] b 5 4
+g1l/1eC/2G/1LE[c] b 4 4
+g1l/1eC/2G/E1L[c] b 4 4
+g1l/1eC/2G/EL1[c] b 1 4
+g1l/1eC/2G/EL1[c] b 4 4
+g1l/1eC/CL1/E1G[] b 2 4
+g1l/1eC/G2/EL1[c] b 4 4
+g1l/1eC/c1G/E1L[] b 5 4
+g1l/1eC/cE1/1LG[] b 5 4
+g1l/1eC/cEG/1L1[] b 5 4
+g1l/2C/1Le/EG1[c] b 5 4
+g1l/2C/eL1/E1G[c] b 5 4
+g1l/2C/eL1/EG1[c] b 5 4
+g1l/EeC/3/cLG[] b 5 4
+g1l/ceC/1E1/1LG[] b 5 4
+g2/1el/1E1/1GL[Cc] b 0 4
+g2/l2/e1L/E1G[Cc] b 3 4
+g2/l2/eEL/2G[Cc] b 5 4
+g2/lC1/cE1/ELG[] b 2 4
+g2/lCc/1E1/ELG[] b 2 4
+g2/lG1/2C/EL1[Ec] b 0 4
+g2/lG1/3/EL1[CCE] b 0 4
+g2/lG1/3/EL1[CEc] b 0 4
+g2/lG1/3/ELC[Ec] b 0 4
+g2/lGC/3/EL1[Ec] b 0 4
+g2/le1/1E1/1LG[Cc] b 1 4
+g2/le1/1E1/1LG[Cc] b 4 4
+g2/le1/1E1/1LG[Cc] b 5 4
+g2/le1/1EG/1L1[cc] b 1 4
+g2/le1/1EG/1L1[cc] b 3 4
+g2/le1/1Ec/1LG[c] b 1 4
+g2/le1/C2/ELG[C] b 2 4
+g2/le1/cEG/1L1[c] b 1 4
+g2/le1/cEG/1L1[c] b 3 4
+g2/le1/cEG/1LC[] b 3 4
+g2/le1/cEG/1LC[] b 5 4
+g2/leC/1E1/1LG[c] b 5 4
+g2/leC/1EG/1L1[C] b 0 4
+g2/leC/1EG/1L1[C] b 2 4
+g2/leC/1EG/1L1[c] b 5 4
+g2/leC/1EG/1Lc[] b 3 4
+g2/leC/1EG/1Lc[] b 5 4
+g2/leC/cE1/1LG[] b 3 4
+g2/leC/cE1/1LG[] b 5 4
+g2/leC/cEG/1L1[] b 3 4
+g2/leC/cEG/1L1[] b 5 4
+g2/leE/C1c/1LG[] b 5 4
+g2/leE/C2/1LG[C] b 2 4
+g2/leE/C2/cLG[] b 5 4
+g2/leG/cE1/1L1[C] b 3 4
+gC1/lG1/3/EL1[Ec] b 0 4
+gC1/le1/1EG/1L1[C] b 0 4
+gC1/le1/1EG/1L1[c] b 5 4
+gC1/le1/cEG/1L1[] b 3 4
+gC1/le1/cEG/1L1[] b 5 4
+gC1/lec/1EG/1L1[] b 3 4
+gC1/lec/1EG/1L1[] b 5 4
+gCe/1Cl/1E1/1LG[] b 6 4
+gCe/1l1/cG1/EL1[] b 3 4
+gCe/1l1/cG1/EL1[] b 5 4
+gCe/1lG/1E1/1L1[C] b 0 4
+gCe/1lG/1E1/1Lc[] b 4 4
+gCe/2l/LE1/1cG[] b 5 4
+gCe/2l/LE1/2G[C] b 0 4
+gCe/2l/LEc/2G[] b 5 4
+gCe/2l/c1G/EL1[] b 4 4
+gCe/cl1/1E1/1LG[] b 4 4
+gCe/cl1/1EG/2L[] b 4 4
+gCe/cl1/2G/E1L[] b 3 4
+gCe/cl1/2G/EL1[] b 4 4
+gCe/clE/2G/1L1[] b 4 4
+gCe/clG/1E1/1L1[] b 4 4
+gCe/l2/1EG/1L1[c] b 3 4
+gCe/l2/1EG/1L1[c] b 5 4
+gCe/l2/c1G/1LE[] b 4 4
+gCe/l2/cEG/1L1[] b 5 4
+gCe/l2/cEL/2G[] b 5 4
+gCl/1eC/1E1/1LG[] b 6 4
+gCl/1eC/2G/EL1[] b 6 4
+gE+C/lc1/3/ELG[] b 2 4
+gE1/l2/1CG/EL1[c] b 2 4
+gE1/lC1/c2/ELG[] b 2 4
+gEC/l2/2c/ELG[] b 2 4
+gEC/l2/c2/ELG[] b 2 4
+gc1/lC1/2E/ELG[] b 2 4
+gc1/lC1/E2/ELG[] b 2 4
+gcC/l2/2E/ELG[] b 2 4
+gcE/lC1/3/ELG[] b 2 4
+gce/1l1/1EC/L1G[] b 3 4
+gce/Cl1/1E1/L1G[] b 3 4
+gce/El1/1CG/1L1[] b 4 4
+gce/l2/1GL/EC1[] b 4 4
+gce/lC1/G2/EL1[] b 4 4
+gl+C/1c1/1E1/1LG[E] b 0 4
+gl+C/1c1/L1e/E1G[] b 5 4
+gl+C/1c1/L2/E1G[E] b 0 4
+gl+C/1c1/L2/E1G[E] b 2 4
+gl+C/1e1/1E1/1LG[c] b 3 4
+gl+C/3/1L1/+c1G[Ee] b 0 4
+gl+C/3/1L1/E1+c[Eg] b 0 4
+gl+C/3/1L1/EeG[c] b 5 4
+gl+C/3/1Le/E1G[c] b 4 4
+gl+C/3/LE1/2+c[Eg] b 0 4
+gl+C/3/eL1/E1G[c] b 4 4
+gl+C/ce1/1EG/1L1[] b 4 4
+gl1/1C1/1L1/Ee1[gc] b 1 4
+gl1/1C1/1L1/Ee1[gc] b 3 4
+gl1/1E1/L1C/EcG[] b 2 4
+gl1/1E1/L1G/Ec1[C] b 2 4
+gl1/1GC/2c/EL1[E] b 0 4
+gl1/1GC/3/ELc[E] b 0 4
+gl1/1GC/c2/EL1[E] b 0 4
+gl1/1c1/2G/E1L[Ec] b 2 4
+gl1/1e1/CG1/EL1[c] b 3 4
+gl1/1e1/CG1/EL1[c] b 5 4
+gl1/1e1/cEG/1L1[c] b 1 4
+gl1/1eE/C1G/1L1[C] b 0 4
+gl1/1eE/C1G/1Lc[] b 4 4
+gl1/1ec/1G1/1LE[C] b 4 4
+gl1/1ec/1G1/E1L[C] b 0 4
+gl1/1ec/1G1/E1L[C] b 4 4
+gl1/1ec/1G1/E1L[C] b 5 4
+gl1/1ec/G2/EL1[C] b 5 4
+gl1/2C/e1L/EcG[] b 5 4
+gl1/2c/2e/EGL[C] b 5 4
+gl1/3/1Ee/1GL[Cc] b 0 4
+gl1/3/2L/2E[CEgc] b 0 4
+gl1/3/cL1/E1G[Ec] b 2 4
+gl1/Ee1/C1G/cL1[] b 4 4
+gl1/c1C/E1G/EL1[] b 2 4
+gl1/c1E/1CL/E1G[] b 2 4
+gl1/c1E/2L/E1G[c] b 2 4
+gl1/cGC/3/EL1[E] b 0 4
+gl1/ceE/2G/1LC[] b 4 4
+gl1/ceE/2G/2L[C] b 2 4
+gl1/ceE/2G/2L[C] b 4 4
+gl1/ceE/2G/L2[C] b 4 4
+gl1/ceE/C1G/1L1[] b 4 4
+gl1/g1E/2L/E2[Cc] b 2 4
+glC/2c/2E/ELG[] b 2 4
+glC/c1E/2L/E1G[] b 2 4
+glC/ceE/2G/1L1[] b 4 4
+glE/c2/C1L/E1G[] b 2 4
+glG/1c1/L2/E+c1[E] b 0 4
+glG/3/1Le/E2[Cc] b 4 4
+glG/3/L1c/E+c1[E] b 0 4
+glG/3/L1c/Ec1[E] b 0 4
+glG/3/L2/E+cc[E] b 0 4
+glG/3/L2/Ecc[E] b 0 4
+glG/3/Lc1/E2[Ec] b 0 4
+glG/3/cL1/E2[CE] b 0 4
+glG/3/eL1/E2[Cc] b 4 4
+glc/1C1/1EG/1L1[E] b 2 4
+glc/1G1/1c1/E1L[E] b 0 4
+glc/1G1/2C/EL1[E] b 0 4
+glc/1G1/3/ELC[E] b 0 4
+glc/1G1/C2/EL1[E] b 0 4
+glc/1GC/3/EL1[E] b 0 4
+glc/1eE/C1G/1L1[] b 4 4
+glc/2E/C1L/E1G[] b 2 4
+glc/2E/L1C/E1G[] b 2 4
+glc/2E/LE1/2G[C] b 2 4
+glc/3/L1E/E1G[c] b 2 4
+glc/E2/1LG/E2[C] b 2 4
+glc/E2/L1C/E1G[] b 2 4
+glc/E2/L1G/E2[C] b 2 4
+gle/1C1/1EL/c1G[] b 5 4
+gle/1C1/1L1/EG1[C] b 2 4
+gle/1C1/1L1/EcG[] b 3 4
+gle/1C1/1LG/E1c[] b 5 4
+gle/1C1/1LG/E2[C] b 2 4
+gle/1C1/1LG/Ec1[] b 5 4
+gle/1C1/2L/E+cG[] b 2 4
+gle/1C1/C1G/EL1[] b 2 4
+gle/1C1/CL1/E1G[] b 2 4
+gle/1C1/L1G/Ec1[] b 5 4
+gle/1C1/L2/E+cG[] b 2 4
+gle/1C1/LE1/1cG[] b 5 4
+gle/1C1/LE1/c1G[] b 5 4
+gle/1C1/cEG/1L1[] b 5 4
+gle/1C1/cEL/2G[] b 5 4
+gle/1CC/1L1/E1G[] b 2 4
+gle/1CG/1E1/1L1[c] b 2 4
+gle/1CG/1E1/1L1[c] b 4 4
+gle/1CG/1E1/cL1[] b 4 4
+gle/1CG/cE1/1L1[] b 4 4
+gle/1Cc/1G1/EL1[] b 5 4
+gle/1c1/1E1/LG1[C] b 5 4
+gle/1c1/1EC/1LG[] b 3 4
+gle/2C/L1G/Ec1[] b 5 4
+gle/2E/2L/+c1G[c] b 1 4
+gle/2E/2L/+cG1[C] b 2 4
+gle/2E/2L/+cG1[C] b 4 4
+gle/2E/2L/1+c1[Cg] b 0 4
+gle/2E/2L/1CG[c] b 4 4
+gle/2E/2L/1c1[Cg] b 0 4
+gle/2E/2L/2G[cc] b 1 4
+gle/2E/2L/C1G[c] b 4 4
+gle/2E/2L/gc1[c] b 3 4
+gle/2E/C1G/1L1[c] b 4 4
+gle/2E/L1c/1G1[C] b 2 4
+gle/2E/L1c/1G1[C] b 4 4
+gle/2E/L2/1Gc[C] b 2 4
+gle/2E/L2/1Gc[C] b 4 4
+gle/2E/L2/1cG[C] b 5 4
+gle/2E/L2/2G[CC] b 0 4
+gle/2E/c1L/2G[C] b 5 4
+gle/2E/c1L/2G[c] b 1 4
+gle/2c/L2/E1G[C] b 3 4
+gle/3/1C1/EcL[g] b 1 4
+gle/3/1EG/2L[cc] b 1 4
+gle/3/1LC/ECG[] b 2 4
+gle/3/1LG/EC1[C] b 0 4
+gle/3/1LG/EC1[C] b 2 4
+gle/3/L1C/E1G[C] b 0 4
+gle/3/c1G/1LE[c] b 1 4
+gle/C1E/2L/+c1G[] b 4 4
+gle/C1E/2L/c1G[] b 4 4
+gle/C2/1EL/cG1[] b 2 4
+gle/C2/1EL/cG1[] b 4 4
+gle/CcE/3/1LG[] b 5 4
+gle/E2/L1G/1c1[C] b 0 4
+gle/c1E/2C/1LG[] b 5 4
+gle/c2/1L1/E1G[C] b 3 4
+gle/c2/1L1/E1G[C] b 5 4
+gle/c2/1L1/EcG[] b 5 4
+gle/c2/1LC/E1G[] b 3 4
+gle/c2/1LC/E1G[] b 5 4
+gle/c2/2G/ECL[] b 5 4
+gle/c2/2L/E1G[C] b 3 4
+gle/c2/2L/E1G[C] b 5 4
+gle/c2/2L/EG1[C] b 0 4
+gle/c2/2L/EG1[C] b 5 4
+gle/c2/CL1/E1G[] b 3 4
+gle/c2/CL1/E1G[] b 5 4
+l+C1/g2/3/ELG[Ec] b 2 4
+l+Ce/g2/1EG/1L1[c] b 4 4
+l+Ce/g2/1EL/2G[c] b 4 4
+l+Ce/g2/1LG/E2[c] b 4 4
+l1e/1C1/g2/ELG[C] b 4 4
+l1e/1G1/LC1/E2[GC] b 0 4
+l1e/CC1/gEL/2G[] b 4 4
+l1e/Cg1/1EL/2G[c] b 3 4
+l1e/g2/1LG/E1C[c] b 2 4
+l1e/g2/1LG/E1C[c] b 3 4
+l1e/g2/1LG/E1C[c] b 4 4
+l1e/g2/1LG/E1C[c] b 5 4
+lCe/1G1/2L/E1G[C] b 2 4
+lG1/Ee1/3/1LG[Cc] b 2 4
+lGe/1c1/LC1/E1G[] b 2 4
+lge/1C1/1EL/C1G[] b 4 4
+lge/1C1/1LG/E1C[] b 4 4
+lge/1C1/1LG/E1C[] b 6 4
+lge/1C1/C1L/EG1[] b 2 4
+lge/1C1/C1L/EG1[] b 4 4
+lge/1C1/C1L/EG1[] b 6 4
+lge/1C1/L1G/E1C[] b 4 4
+lge/1G1/1C1/E1L[C] b 2 4
+lge/1G1/1C1/ELC[] b 2 4
+lge/1G1/LC1/E2[C] b 2 4
+lge/1c1/LCG/E2[] b 7 4
+lge/C1G/3/EL1[c] b 5 4
+lge/C2/1G1/EL1[c] b 5 4
+lge/C2/2G/E1L[c] b 5 4
+lge/C2/2L/E1G[c] b 3 4
+lge/G2/1C1/EL1[C] b 2 4
